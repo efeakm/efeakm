@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data science/computer vision<br>👯 I’m looking to collaborate on algo trading/computer vision projects<br>🌱 I’m currently learning computer vision<br>
+🔭 I’m currently working on data science/computer vision projects<br>👯 I’m looking to collaborate on algo trading/computer vision projects<br>🌱 I’m currently learning computer vision<br>
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=efeakm&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=efeakm&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=efeakm&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=efeakm&icon=0&color=0)](https://visitcount.itsvg.in)
