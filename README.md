@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data science/computer vision projects<br>👯 I’m looking to collaborate on algo trading/computer vision projects<br>🌱 I’m currently learning computer vision<br>
+🔭 I’m currently working on data science/algo trading projects<br>👯 I’m looking to collaborate on algo trading/computer vision projects<br>🌱 I’m currently learning computer vision<br>
 
 
 ## 🌐 Socials:
