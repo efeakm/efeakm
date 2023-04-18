@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML/AI projects<br> 🌱 I’m currently learning cloud computing/AWS<br>
+🔭 I’m currently working on ML/AI projects<br> 🌱 I’m currently learning NLP and Hugging Face Transformers<br>
 
 
 ## 🌐 Socials:
