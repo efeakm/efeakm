@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP and HuggingFace projects<br> 🌱 I’m currently learning distributed learning<br>
+🔭 I’m currently working on NLP, LLM and LangChain projects<br>
 
 
 ## 🌐 Socials:
